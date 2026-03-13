@@ -1,6 +1,6 @@
-# Ex. No. 2  - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
+# Ex. No.  - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
 
-## DATE: 12-03-2025
+## DATE: 13-03-2026
 
 ## AIM:
 ###   To determine & simulate the displacement & velocity analysis for the given slider crank mechanism. 
@@ -20,7 +20,7 @@
 ###  Configuration diagram
 ###  Assume scale 1:10
 ###  1. Draw a horizontal line and locate C 
-###  2. At C, draw CB of length 20 mm inclined at 120&deg;
+###  2. At C, draw CB of length 20 mm inclined at 1200 
 ###  3. With B as centre, BA 60mm, draw an arc to cut the horizontal at A. Join BA to complete the configuration diagram 
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/0e905314-0fc5-4e13-a513-67c95aced702)
@@ -35,15 +35,13 @@
 ###  3. At b, draw a projection line perpendicular to AB from the configuration diagram 
 ###  4. Draw a horizontal at c, meeting the projection from b at a. join ca to complete the velocity diagram.
 
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/23ca1772-5a92-4b8b-a8bc-e149da33d297)
 
 ## Output
-### MechAnalyzer Graph 
-![MechAnalyzer](MechAnalyzer.png)
-### VAD, IC and SFA module
-![VAD, IC and SFA module](<VAD, IC and SFA module.png>)
-### Name: **ADITHYA R**
-### Register Number: **212225040012**
+![alt text](image.png)
+![alt text](<Screenshot 2026-03-13 121446.png>)
+
+### Name: ADITHYA R
+### Register Number: 212225040012
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
